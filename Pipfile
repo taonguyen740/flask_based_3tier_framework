@@ -11,6 +11,7 @@ webargs = "*"
 sqlalchemy = "*"
 flask-cors = "*"
 python-dotenv = "*"
+pyhumps = "*"
 
 [dev-packages]
 pytest = "*"
